@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Ray（feat. Yo-Sea）",
+  "base_artist": "Neetz",
+  "createdAt": "2026-03-08T06:33:54.167319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "X-Ray (feat. Jhyve)",
+      "artist": "Rezonate",
+      "has_synced": true,
+      "path": "select/01_X-Ray_(feat._Jhyve)_Rezonate.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STUPID (WITH LIL YACHTY & BABYFACE RAY) (feat. Lil Yachty & Babyface Ray)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/02_STUPID_(WITH_LIL_YACHTY_&_BABYFACE_RAY)_(feat._Lil_Yachty_&_Babyface_Ray)_YG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Red Ray (feat. miwa)",
+      "artist": "Sugizo",
+      "has_synced": false,
+      "path": "select/03_A_Red_Ray_(feat._miwa)_Sugizo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Horsell Common and the Heat Ray (feat. Liam Neeson)",
+      "artist": "Jeff Wayne",
+      "has_synced": true,
+      "path": "select/04_Horsell_Common_and_the_Heat_Ray_(feat._Liam_Neeson)_Jeff_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sting Ray (feat. DJ Tira & Bhar)",
+      "artist": "Big Nuz feat. DJ Tira & Bhar",
+      "has_synced": false,
+      "path": "select/05_Sting_Ray_(feat._DJ_Tira_&_Bhar)_Big_Nuz_feat._DJ_Tira_&_Bhar.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BLU-RAY (feat. TVETH)",
+      "artist": "JEEMBO",
+      "has_synced": false,
+      "path": "select/06_BLU-RAY_(feat._TVETH)_JEEMBO.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "X-RAY (feat. AwesomeElina & Flauschi) (Remix)",
+      "artist": "CandyPRP",
+      "has_synced": false,
+      "path": "select/07_X-RAY_(feat._AwesomeElina_&_Flauschi)_(Remix)_CandyPRP.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sugar Ray feat. KRS‐One / Live and Direct",
+      "artist": "Sugar Ray",
+      "has_synced": true,
+      "path": "select/08_Sugar_Ray_feat._KRS‐One___Live_and_Direct_Sugar_Ray.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BLU-RAY (feat. TVETH)",
+      "artist": "JEEMBO; TVETH",
+      "has_synced": true,
+      "path": "select/09_BLU-RAY_(feat._TVETH)_JEEMBO;_TVETH.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cross†Ray(feat. 月下Lia)",
+      "artist": "HyuN/月下Lia",
+      "has_synced": true,
+      "path": "select/10_Cross†Ray(feat._月下Lia)_HyuN_月下Lia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "STUPID (WITH LIL YACHTY & BABYFACE RAY) (feat. Lil Yachty & Babyface Ray)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/11_STUPID_(WITH_LIL_YACHTY_&_BABYFACE_RAY)_(feat._Lil_Yachty_&_Babyface_Ray)_YG.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lola Ray (Feat. Paloma Faith)",
+      "artist": "Ray Davies",
+      "has_synced": false,
+      "path": "select/12_Lola_Ray_(Feat._Paloma_Faith)_Ray_Davies.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ray (Feat. Kirsty Thirsk)",
+      "artist": "Delerium",
+      "has_synced": false,
+      "path": "select/13_Ray_(Feat._Kirsty_Thirsk)_Delerium.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Top Tier (feat. BabyFace Ray) feat. Babyface Ray",
+      "artist": "Sleepy Hallow",
+      "has_synced": true,
+      "path": "select/14_Top_Tier_(feat._BabyFace_Ray)_feat._Babyface_Ray_Sleepy_Hallow.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "01 Babyface Ray Feat. Icewear Vezzo - 6 Mile Show",
+      "artist": "Dj S.R.",
+      "has_synced": true,
+      "path": "select/15_01_Babyface_Ray_Feat._Icewear_Vezzo_-_6_Mile_Show_Dj_S.R..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "30 Babyface Ray Feat. 42 Dugg - Let Me Down",
+      "artist": "Dj S.R.",
+      "has_synced": true,
+      "path": "select/16_30_Babyface_Ray_Feat._42_Dugg_-_Let_Me_Down_Dj_S.R..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "17 Babyface Ray Feat. Peezy & Murda Beatz - Touchdown",
+      "artist": "Dj S.R.",
+      "has_synced": true,
+      "path": "select/17_17_Babyface_Ray_Feat._Peezy_&_Murda_Beatz_-_Touchdown_Dj_S.R..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "25 Babyface Ray Feat. Wiz Khalifa - Kush & Codeine",
+      "artist": "Dj S.R.",
+      "has_synced": true,
+      "path": "select/18_25_Babyface_Ray_Feat._Wiz_Khalifa_-_Kush_&_Codeine_Dj_S.R..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ray (feat. Yo-Sea)",
+      "artist": "Neetz",
+      "has_synced": false,
+      "path": "select/pl_01_Ray_(feat._Yo-Sea)_Neetz.txt"
+    }
+  ]
+}
